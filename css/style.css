@@ -110,7 +110,7 @@ figure {
   background-size: cover;
   background-attachment: fixed;
   position: relative;
-  height: 600px;
+  height: 930px important;
   width: 100%;
 }
 
